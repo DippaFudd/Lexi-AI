@@ -3,10 +3,10 @@
 An intelligent AI assistant with Matrix-style visual effects, featuring both modern chat and terminal interfaces. Lexi AI can answer questions on virtually any topic known to humanity.
 
 ## Screenshots
-![Image Alt]()
+![Image Alt](https://github.com/DippaFudd/Lexi-AI/blob/f37e9dd525e8b7ad7e3767b26c16ac1de7fea03c/lexi%20ai%20pic.png)
 
-
-![Lexi AI](https://via.placeholder.com/800x400/1a1a2e/9d4edd?text=Lexi+AI+Chatbot)
+## Reminder
+The live website is just for preview but in order to get AI repsonse the program to be ran locally.
 
 ## ✨ Features
 
