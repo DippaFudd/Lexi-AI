@@ -5,7 +5,7 @@ An intelligent AI assistant with Matrix-style visual effects, featuring both mod
 ## Screenshots
 ![Image Alt](https://github.com/DippaFudd/Lexi-AI/blob/f37e9dd525e8b7ad7e3767b26c16ac1de7fea03c/lexi%20ai%20pic.png)
 
-## Reminder
+## 🚨 Reminder
 The live website is just for preview but in order to get AI repsonse the program to be ran locally.
 
 ## ✨ Features
@@ -86,22 +86,6 @@ Navigate to [http://localhost:3000](http://localhost:3000)
 - **Styling**: Tailwind CSS + shadcn/ui
 - **Animations**: Canvas-based Matrix rain
 - **Language**: TypeScript
-
----
-
-## 📁 Project Structure
-
-\`\`\`
-Lexi-AI/
-├── .env                    # Environment variables (create this!)
-├── package.json            # Dependencies
-├── app/
-│   ├── api/chat/route.ts   # AI chat API endpoint
-│   ├── page.tsx            # Main application
-│   └── layout.tsx          # Root layout
-├── components/ui/          # shadcn/ui components
-└── README.md              # This file
-\`\`\`
 
 ---
 
