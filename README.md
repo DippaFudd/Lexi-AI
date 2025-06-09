@@ -8,7 +8,7 @@ An intelligent AI assistant with Matrix-style visual effects, featuring both mod
 
 
 ## 🚨 Reminder
-The live website is just for preview but in order to get AI repsonse the program to be ran locally.
+The live website is just for preview but in order to get AI repsonse the program has to be ran locally.
 
 ## ✨ Features
 
